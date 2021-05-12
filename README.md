@@ -1,6 +1,6 @@
 # Análises exploratórios em dados numéricos nº 1
 
-Realizei análises exploratórias em dados numéricos de um Dataset do Kaggle que tem diversas informações sobre carros usados.
+Realizei análises exploratórias em dados numéricos de um Dataset do Kaggle. Esse Dataset tem diversas informações sobre carros usados.
 
 Explorei os seguintes tópicos:
 
