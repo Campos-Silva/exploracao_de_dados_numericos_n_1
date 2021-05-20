@@ -18,6 +18,6 @@ Explorei os seguintes tópicos:
 
 Fonte dos dados: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
-Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o scrip do Python: 
+## Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script e os gráficos do Python: 
 
 
