@@ -1,3 +1,5 @@
+![Alt ou título da imagem](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/1-horz.jpg)
+
 # Análises exploratórios em dados numéricos nº 1
 
 Realizei análises exploratórias em dados numéricos de um Dataset do Kaggle. Esse Dataset tem diversas informações sobre carros usados.
